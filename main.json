@@ -1,19 +1,8 @@
 [
   {
-    "name": "John Doe",
-    "email": "john@example.com",
-    "status": "active"
-  },
-  {
-    "name": "Jane Doe",
-    "email": "jane@example.com",
-    "status": "inactive"
-  },
-  {
     "name": "hoi",
     "email": "ja@gmail.com",
     "status": "inactive",
     "registrationDate": "2025-02-12T01:02:05.559Z",
-    "lastActive": "2025-02-12T01:02:05.560Z"
   }
 ]
