@@ -4,5 +4,11 @@
     "email": "ja@gmail.com",
     "status": "inactive",
     "registrationDate": "2025-02-12T01:02:05.559Z"
+  },
+  {
+    "name": "john",
+    "email": "doe@gmail.com",
+    "status": "active",
+    "registrationDate": "2025-02-12T01:19:16.533Z"
   }
 ]
