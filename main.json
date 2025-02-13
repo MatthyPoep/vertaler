@@ -1,26 +1,16 @@
 [
   {
-    "name": "hoi",
-    "email": "ja@gmail.com",
-    "status": "inactive",
-    "registrationDate": "2025-02-12T01:02:05.559Z"
-  },
-  {
-    "name": "john",
-    "email": "doe@gmail.com",
-    "status": "active",
-    "registrationDate": "2025-02-12T01:19:16.533Z"
-  },
-  {
     "name": "Matthijs",
     "email": "matje@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-12T01:24:47.886Z"
+    "useAi": "true"
   },
   {
     "name": "Matthijs",
     "email": "romein@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-12T11:25:35.847Z"
+    "useAi": "true"
   }
 ]
