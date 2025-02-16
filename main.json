@@ -14,24 +14,10 @@
     "useAi": "false"
   },
   {
-    "name": "hoi",
-    "email": "ja@gmail.com",
-    "status": "active",
-    "registrationDate": "2025-02-13T23:24:38.295Z",
-    "useAi": "false"
-  },
-  {
     "name": "Matthijs",
     "email": "cjromebook@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-14T08:14:42.718Z",
     "useAi": "true"
-  },
-  {
-    "name": "hoi",
-    "email": "jae@gmail.com",
-    "status": "active",
-    "registrationDate": "2025-02-16T15:58:33.249Z",
-    "useAi": "false"
   }
 ]
