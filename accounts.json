@@ -16,8 +16,8 @@
   {
     "name": "Pc",
     "email": "Pc@gmail.com",
-    "status": "active",
+    "status": "inactive",
     "registrationDate": "2025-02-16T22:58:13.901Z",
-    "useAi": "false"
+    "useAi": "true"
   }
 ]
