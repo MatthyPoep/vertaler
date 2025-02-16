@@ -19,5 +19,12 @@
     "status": "active",
     "registrationDate": "2025-02-16T22:58:13.901Z",
     "useAi": "true"
+  },
+  {
+    "name": "MatthijsChromebook",
+    "email": "chromebook@gmail.com",
+    "status": "active",
+    "registrationDate": "2025-02-16T23:07:28.732Z",
+    "useAi": "false"
   }
 ]
