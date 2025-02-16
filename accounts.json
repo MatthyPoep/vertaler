@@ -4,14 +4,14 @@
     "email": "ja@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-13T23:20:00.453Z",
-    "useAi": "true"
+    "useAi": "false"
   },
   {
     "name": "pls",
     "email": "pls@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-13T23:22:18.299Z",
-    "useAi": "true"
+    "useAi": "false"
   },
   {
     "name": "Matthijs",
@@ -25,7 +25,7 @@
     "email": "pls@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-16T16:03:41.221Z",
-    "useAi": "true"
+    "useAi": "false"
   },
   {
     "name": "john",
