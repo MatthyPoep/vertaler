@@ -19,5 +19,12 @@
     "status": "active",
     "registrationDate": "2025-02-14T08:14:42.718Z",
     "useAi": "true"
+  },
+  {
+    "name": "pc",
+    "email": "pc@fmail.com",
+    "status": "active",
+    "registrationDate": "2025-02-16T16:01:43.312Z",
+    "useAi": "false"
   }
 ]
