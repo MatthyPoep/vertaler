@@ -30,8 +30,8 @@
   {
     "name": "Marijn",
     "email": "107991@amersfoortsteberg.nl",
-    "status": "active",
+    "status": "inactive",
     "registrationDate": "2025-02-17T09:21:05.336Z",
-    "useAi": "false"
+    "useAi": "true"
   }
 ]
