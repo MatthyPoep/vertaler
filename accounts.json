@@ -25,12 +25,12 @@
     "email": "chromebook@gmail.com",
     "status": "active",
     "registrationDate": "2025-02-16T23:07:28.732Z",
-    "useAi": "false"
+    "useAi": "true"
   },
   {
     "name": "Marijn",
     "email": "107991@amersfoortsteberg.nl",
-    "status": "inactive",
+    "status": "active",
     "registrationDate": "2025-02-17T09:21:05.336Z",
     "useAi": "true"
   }
